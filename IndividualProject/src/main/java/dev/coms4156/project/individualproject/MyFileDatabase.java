@@ -7,7 +7,6 @@ import java.util.*;
  * This class represents a file-based database containing department mappings.
  */
 public class MyFileDatabase {
-
   /**
    * Constructs a MyFileDatabase object and loads up the data structure with
    * the contents of the file.
